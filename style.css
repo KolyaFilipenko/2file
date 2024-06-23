@@ -1,0 +1,12 @@
+
+.link-text:hover{
+    color:red;
+}
+p:hover{
+    color:red;
+    transition: all 1s ease-out;
+
+}
+p{
+    font-size: 30px;
+}
